@@ -15,7 +15,8 @@ Random Forest classifier with Balanced Bootstrapped samples performed well on th
 
 Balanced accuracy score on Test set is: 0.7786989795918368
 
-Recall on Minority class (risky client) is 0.64. out of 28 negative samples in the test, it predicted 18 of them correctly. 
+Recall on Minority class (risky client) is 0.64.
+Out of 28 negative samples in the test, it predicted 18 of them correctly. 
 Confusion matrix is provided in the notebook.
 
 Note:
